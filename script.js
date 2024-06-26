@@ -1,0 +1,1 @@
+// JavaScript can be used for interactive elements like modals, tabs, etc.
